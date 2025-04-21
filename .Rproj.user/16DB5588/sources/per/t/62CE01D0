@@ -1,0 +1,27 @@
+{
+    "id": "62CE01D0",
+    "path": "G:/Meu Drive/ANALISE DE DADOS_R/PROJETO RENDA VARIÁVEL/RV_GARCH_VaR_Monte_Carlo/VWO_Prev.R",
+    "project_path": "VWO_Prev.R",
+    "type": "r_source",
+    "hash": "815278433",
+    "contents": "",
+    "dirty": false,
+    "created": 1745196804806.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,18",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1745197571,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1745197571992,
+    "read_only": false,
+    "read_only_alternatives": []
+}

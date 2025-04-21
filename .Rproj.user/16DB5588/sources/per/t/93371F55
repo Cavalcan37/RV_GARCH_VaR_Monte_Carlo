@@ -1,0 +1,27 @@
+{
+    "id": "93371F55",
+    "path": "G:/Meu Drive/ANALISE DE DADOS_R/PROJETO RENDA VARIÁVEL/RV_GARCH_VaR_Monte_Carlo/VWO_Simul.R",
+    "project_path": "VWO_Simul.R",
+    "type": "r_source",
+    "hash": "3737056996",
+    "contents": "",
+    "dirty": false,
+    "created": 1745196825157.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,9",
+        "scrollLine": "13"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1745204860,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1745204860679,
+    "read_only": false,
+    "read_only_alternatives": []
+}
